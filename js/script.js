@@ -1,5 +1,5 @@
 //Router 
-console glaboal = {
+const global = {
     currentPage: window.location.pathname
 };
 
